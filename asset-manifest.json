@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tirnu/static/css/main.a617e044.chunk.css",
+    "main.js": "/tirnu/static/js/main.9288b226.chunk.js",
+    "main.js.map": "/tirnu/static/js/main.9288b226.chunk.js.map",
+    "runtime-main.js": "/tirnu/static/js/runtime-main.39d332a0.js",
+    "runtime-main.js.map": "/tirnu/static/js/runtime-main.39d332a0.js.map",
+    "static/js/2.9bc89676.chunk.js": "/tirnu/static/js/2.9bc89676.chunk.js",
+    "static/js/2.9bc89676.chunk.js.map": "/tirnu/static/js/2.9bc89676.chunk.js.map",
+    "static/js/3.0f26198b.chunk.js": "/tirnu/static/js/3.0f26198b.chunk.js",
+    "static/js/3.0f26198b.chunk.js.map": "/tirnu/static/js/3.0f26198b.chunk.js.map",
+    "index.html": "/tirnu/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/tirnu/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.9bc89676.chunk.js.LICENSE.txt": "/tirnu/static/js/2.9bc89676.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tirnu/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39d332a0.js",
+    "static/js/2.9bc89676.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.9288b226.chunk.js"
+  ]
+}
